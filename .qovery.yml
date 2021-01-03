@@ -1,0 +1,8 @@
+application:
+  name: httpbin
+  project: postgresqlQoveryDeployDOC91oAMbc
+  organization: QoveryCommunity
+databases:
+- type: postgresql
+  version: 12
+  name: e2e-postgresql
